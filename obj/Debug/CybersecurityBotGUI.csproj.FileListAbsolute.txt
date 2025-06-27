@@ -1,0 +1,11 @@
+C:\Users\anton\source\repos\CybersecurityBotGUI\CybersecurityBotGUI\obj\Debug\CybersecurityBotGUI.csproj.AssemblyReference.cache
+C:\Users\anton\source\repos\CybersecurityBotGUI\CybersecurityBotGUI\obj\Debug\CybersecurityBotGUI.Form1.resources
+C:\Users\anton\source\repos\CybersecurityBotGUI\CybersecurityBotGUI\obj\Debug\CybersecurityBotGUI.Properties.Resources.resources
+C:\Users\anton\source\repos\CybersecurityBotGUI\CybersecurityBotGUI\obj\Debug\CybersecurityBotGUI.csproj.GenerateResource.cache
+C:\Users\anton\source\repos\CybersecurityBotGUI\CybersecurityBotGUI\obj\Debug\CybersecurityBotGUI.csproj.CoreCompileInputs.cache
+C:\Users\anton\source\repos\CybersecurityBotGUI\CybersecurityBotGUI\bin\Debug\CybersecurityBotGUI.exe.config
+C:\Users\anton\source\repos\CybersecurityBotGUI\CybersecurityBotGUI\bin\Debug\CybersecurityBotGUI.exe
+C:\Users\anton\source\repos\CybersecurityBotGUI\CybersecurityBotGUI\bin\Debug\CybersecurityBotGUI.pdb
+C:\Users\anton\source\repos\CybersecurityBotGUI\CybersecurityBotGUI\obj\Debug\CybersecurityBotGUI.exe
+C:\Users\anton\source\repos\CybersecurityBotGUI\CybersecurityBotGUI\obj\Debug\CybersecurityBotGUI.pdb
+C:\Users\anton\source\repos\CybersecurityBotGUI\CybersecurityBotGUI\obj\Debug\CybersecurityBotGUI.QuizForm.resources
